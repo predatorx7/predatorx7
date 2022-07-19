@@ -44,7 +44,7 @@
   
   <img src="https://c.tenor.com/pXEDrZV2s4QAAAAi/star-spinning.gif" height="16" /> [**Logging Manager**](https://pub.dev/packages/logging_manager_flutter) <br />A package for managing logs on dart, and flutter.
   
-  <img src="https://c.tenor.com/pXEDrZV2s4QAAAAi/star-spinning.gif" height="16" /> [**Flora Probe**](https://github.com/predatorx7/flora-probe) with [Thehunk1206] <br />A flutter application for recognizing various types of flowers
+  <img src="https://c.tenor.com/pXEDrZV2s4QAAAAi/star-spinning.gif" height="16" /> [**Flora Probe**](https://github.com/predatorx7/flora-probe) with [Thehunk1206](https://github.com/Thehunk1206) <br />A flutter application for recognizing various types of flowers
 
 ### Want to support?
  
