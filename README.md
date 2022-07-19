@@ -30,19 +30,19 @@
 
   ### Highlights from my Projects
   
-  <img src="https://user-images.githubusercontent.com/41123719/164336824-8d8d39c2-2d5b-4ba4-8eff-a56a7e6ff242.gif" height="16" /> [**VROTT App**](https://vrfilms.in/gallery/vrott/) with [BinaryNumbers](https://binarynumbers.io/) <br />An OTT application for Android TV, Fire TV, Android, and iOS built with Flutter, and NodeJS.
+  <img src="https://c.tenor.com/pXEDrZV2s4QAAAAi/star-spinning.gif" height="16" /> [**VROTT App**](https://vrfilms.in/gallery/vrott/) with [BinaryNumbers](https://binarynumbers.io/) <br />An OTT application for Android TV, Fire TV, Android, and iOS built with Flutter, and NodeJS.
   
-  <img src="https://user-images.githubusercontent.com/41123719/164336824-8d8d39c2-2d5b-4ba4-8eff-a56a7e6ff242.gif" height="16" /> [**Empire Cinemas App**](https://play.google.com/store/apps/details?id=com.binary.empirecinema) with [BinaryNumbers](https://binarynumbers.io/) <br />A nice ticket booking application for Android, and iOS built with Flutter.
+  <img src="https://c.tenor.com/pXEDrZV2s4QAAAAi/star-spinning.gif" height="16" /> [**Empire Cinemas App**](https://play.google.com/store/apps/details?id=com.binary.empirecinema) with [BinaryNumbers](https://binarynumbers.io/) <br />A nice ticket booking application for Android, and iOS built with Flutter.
   
-  <img src="https://user-images.githubusercontent.com/41123719/164336824-8d8d39c2-2d5b-4ba4-8eff-a56a7e6ff242.gif" height="16" /> [**Brij POS**]() with [**Brij**](https://brij.tech/) <br />A POS application for the Brij suite, supports Android, Linux, and Windows. Built with Flutter.
+  <img src="https://c.tenor.com/pXEDrZV2s4QAAAAi/star-spinning.gif" height="16" /> [**Brij POS**]() with [**Brij**](https://brij.tech/) <br />A POS application for the Brij suite, supports Android, Linux, and Windows. Built with Flutter.
   
-  <img src="https://user-images.githubusercontent.com/41123719/164336824-8d8d39c2-2d5b-4ba4-8eff-a56a7e6ff242.gif" height="16" /> [**Zero DCE**](https://github.com/predatorx7/Zero-DCE) with [Thehunk1206](https://github.com/Thehunk1206)<br />Flutter app for the implementation of Research Paper "Learning to Enhance Low-Light Image via Zero-Reference Deep Curve Estimation"
+  <img src="https://c.tenor.com/pXEDrZV2s4QAAAAi/star-spinning.gif" height="16" /> [**Zero DCE**](https://github.com/predatorx7/Zero-DCE) with [Thehunk1206](https://github.com/Thehunk1206)<br />Flutter app for the implementation of Research Paper "Learning to Enhance Low-Light Image via Zero-Reference Deep Curve Estimation"
   
-  <img src="https://user-images.githubusercontent.com/41123719/164336824-8d8d39c2-2d5b-4ba4-8eff-a56a7e6ff242.gif" height="16" /> [**Goto**](https://github.com/predatorx7/goto) <br />A simple CLI app that provides directory shortcuts by keeping a key-value record of paths you wish to save for quick access later. Supports Linux, and Mac.
+  <img src="https://c.tenor.com/pXEDrZV2s4QAAAAi/star-spinning.gif" height="16" /> [**Goto**](https://github.com/predatorx7/goto) <br />A simple CLI app that provides directory shortcuts by keeping a key-value record of paths you wish to save for quick access later. Supports Linux, and Mac.
   
-  <img src="https://user-images.githubusercontent.com/41123719/164336824-8d8d39c2-2d5b-4ba4-8eff-a56a7e6ff242.gif" height="16" /> [**navigator**](https://pub.dev/packages/navigator) <br />An easy yet powerful navigator for simple flutter apps that is compatible with Flutter's Navigator APIs.
+  <img src="https://c.tenor.com/pXEDrZV2s4QAAAAi/star-spinning.gif" height="16" /> [**navigator**](https://pub.dev/packages/navigator) <br />An easy yet powerful navigator for simple flutter apps that is compatible with Flutter's Navigator APIs.
   
-  <img src="https://user-images.githubusercontent.com/41123719/164336824-8d8d39c2-2d5b-4ba4-8eff-a56a7e6ff242.gif" height="16" /> [**Logging Manager**](https://pub.dev/packages/logging_manager_flutter) <br />A package for managing logs on dart, and flutter.
+  <img src="https://c.tenor.com/pXEDrZV2s4QAAAAi/star-spinning.gif" height="16" /> [**Logging Manager**](https://pub.dev/packages/logging_manager_flutter) <br />A package for managing logs on dart, and flutter.
 
 ### Want to support?
  
