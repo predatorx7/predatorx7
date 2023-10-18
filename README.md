@@ -3,9 +3,9 @@
 
   ### Hello, my name is Mushaheed.
   I'm a **software developer**, and an **open-source** enthusiast.
-  <br />I love to create beautiful, and easy to use applications for users and awesome tools for developers.
+  <br />I love to create beautiful, and easy-to-use applications for users and excellent tools for developers.
   
-  I'm highly interested in Computer Programming. <br/> Currently learning more about containerization, different forms of computing such as Concurrency, Asynchronous.
+  I'm highly interested in Computer Programming. <br/> Currently learning more about containerization and different forms of computing.
 
   <img src="https://c.tenor.com/Ax9SSqy-tXoAAAAi/angel-wings.gif" width="90" />
   
@@ -26,6 +26,11 @@
   
 
 <div />
+<div>
+  <a href="https://github.com/jonataslaw">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=predatorx7&count_private=true&theme=cobalt&show_icons=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=predatorx7&layout=compact&langs_count=7&theme=cobalt"/>
+</div>
 <div align="start">
 
   ### Highlights from my Projects
@@ -40,7 +45,7 @@
   
   <img src="https://c.tenor.com/pXEDrZV2s4QAAAAi/star-spinning.gif" height="16" /> [**Goto**](https://github.com/predatorx7/goto) <br />A simple CLI app that provides directory shortcuts by keeping a key-value record of paths you wish to save for quick access later. Supports Linux, and Mac.
   
-  <img src="https://c.tenor.com/pXEDrZV2s4QAAAAi/star-spinning.gif" height="16" /> [**navigator**](https://pub.dev/packages/navigator) <br />An easy yet powerful navigator for simple flutter apps that is compatible with Flutter's Navigator APIs.
+  <img src="https://c.tenor.com/pXEDrZV2s4QAAAAi/star-spinning.gif" height="16" /> [**navigator**](https://pub.dev/packages/navigator) <br />An easy yet powerful navigator for simple flutter apps that are compatible with Flutter's Navigator APIs.
   
   <img src="https://c.tenor.com/pXEDrZV2s4QAAAAi/star-spinning.gif" height="16" /> [**Logging Manager**](https://pub.dev/packages/logging_manager_flutter) <br />A package for managing logs on dart, and flutter.
   
