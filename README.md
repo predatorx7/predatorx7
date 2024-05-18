@@ -5,7 +5,7 @@
   I'm a **software developer**, and an **open-source** enthusiast.
   <br />I love to create beautiful, and easy-to-use applications for users and excellent tools for developers.
   
-  I'm highly interested in Computer Programming. <br/> Currently learning more about containerization and different forms of computing.
+  I'm highly interested in Computer Programming. <br/> Currently learning more about observability, distributed computing architecture, containerization and different forms of computing.
 
   <img src="https://c.tenor.com/Ax9SSqy-tXoAAAAi/angel-wings.gif" width="90" />
   
