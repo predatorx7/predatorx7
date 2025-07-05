@@ -26,16 +26,28 @@
   
 
 <div />
+
+## 🔗 Github Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=predatorx7&theme=darkhub">
+</p>
+
+## 🔗 Github Analysis
+
+![ Github Stats Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=predatorx7&theme=radical&hide_border=true)
+
 <div>
-  <a href="https://github.com/jonataslaw">
+  <a href="https://github.com/predatorx7">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=predatorx7&count_private=true&theme=cobalt&show_icons=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=predatorx7&layout=compact&langs_count=7&theme=cobalt"/>
+  <br/>
+  <img height="280em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=predatorx7&layout=donut&langs_count=8&theme=cobalt"/>
 </div>
 <div align="start">
 
-  ### Highlights from my Projects
+### Highlights from my Projects
   
-  <img src="https://c.tenor.com/pXEDrZV2s4QAAAAi/star-spinning.gif" height="16" /> [**Flora Probe**](https://github.com/predatorx7/flora-probe) with [Thehunk1206](https://github.com/Thehunk1206) <br />A flutter application for recognizing various types of flowers
+<img src="https://c.tenor.com/pXEDrZV2s4QAAAAi/star-spinning.gif" height="16" /> [**Flora Probe**](https://github.com/predatorx7/flora-probe) with [Thehunk1206](https://github.com/Thehunk1206) <br />A flutter application for recognizing various types of flowers
 
 ### Want to support?
  
